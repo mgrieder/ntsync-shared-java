@@ -1,7 +1,7 @@
 Shared Library for NTsync Clients and Server
 =========================
 
-This is shared library which is used as common layer between client and server for [NTsync](http://www.ntsync.com) (Encrypted Backup and Synchronization of Contacts).
+This is shared library which is used as common layer between [client](https://github.com/mgrieder/ntsync-android) and server for [NTsync](http://www.ntsync.com) (Encrypted Backup and Synchronization of Contacts).
 
 - Website: http://www.ntsync.com
 - [Releases Client Binaries](https://github.com/mgrieder/ntsync-android/releases)
